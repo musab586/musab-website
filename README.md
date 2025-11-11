@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>موقع مصعب حسن عبدالجليل</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px 0;
+    }
+
+    h1 {
+      margin: 0;
+    }
+
+    section {
+      margin: 30px auto;
+      padding: 20px;
+      max-width: 600px;
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      margin: 10px 0;
+    }
+
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 10px 0;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>مصعب حسن عبدالجليل</h1>
+    <p>مطور ويب مبتدئ</p>
+  </header>
+
+  <section>
+    <h2>عنّي</h2>
+    <p>مرحبًا! أنا مصعب حسن عبدالجليل، طالب في مجال تقنية المعلومات وأتعلم تطوير الويب.</p>
+    <img src="profile.jpg" alt="صورة مصعب حسن عبدالجليل">
+  </section>
+
+  <section>
+    <h2>معرض الصور</h2>
+    <img src="image1.jpg" alt="صورة 1">
+    <img src="image2.jpg" alt="صورة 2">
+    <img src="image3.jpg" alt="صورة 3">
+  </section>
+
+  <footer>
+    <p>© 2025 مصعب حسن عبدالجليل</p>
+  </footer>
+
+</body>
+</html>
